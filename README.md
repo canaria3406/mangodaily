@@ -5,9 +5,10 @@
 ## 安裝方式
 
 Firefox版本已經上架，請到商店頁面下載。
+
 [https://addons.mozilla.org/zh-TW/firefox/addon/mango-daily/](https://addons.mozilla.org/zh-TW/firefox/addon/mango-daily/)
 
-因為我沒有 Chrome 商店的開發者帳號，無法線上發布，所以只能手動安裝。
+因為我沒有 Chrome 商店的開發者帳號，無法發布到 Chrome 商店，所以只能手動安裝。
 
 1. Download ZIP 並解壓縮
 2. 開啟Chrome > 擴充功能 > 開啟開發人員模式
