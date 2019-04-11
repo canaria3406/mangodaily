@@ -13,8 +13,12 @@
 ## Demo
 
 安裝前
+
 ![image](https://github.com/cy4v/mangodaily/blob/master/pic/01.jpg)
+
+
 安裝後
+
 ![image](https://github.com/cy4v/mangodaily/blob/master/pic/02.jpg)
 
 ## 聲明
