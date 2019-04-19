@@ -3,7 +3,7 @@
 	
 	"name" : "mangodaily",
 	"description" : "我不想登入蘋果新聞網",
-	"version" : "1.0",
+	"version" : "2.0",
 	
 	"browser_action" : {
 		"default_title" : "mangodaily",
@@ -13,9 +13,6 @@
     "48": "icon-48.png",
     "128": "icon-128.png"
 	},
-	"background":{
-        "scripts": ["jquery-3.4.0.min.js", "mango.js"]
-    },
 	"content_scripts" : [
 		{
 		"matches" : ["*://*.appledaily.com/*"],
