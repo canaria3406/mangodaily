@@ -10,13 +10,13 @@
 		"default_icon" : "icon.png"	
 	},
 	"icons": {
-    "48": "icon-48.png",
-    "128": "icon-128.png"
+		"48": "icon-48.png",
+		"128": "icon-128.png"
 	},
 	"content_scripts" : [
 		{
-		"matches" : ["*://*.appledaily.com/*"],
-		"js" : ["jquery-3.4.0.min.js", "mango.js"]
+			"matches" : ["*://*.appledaily.com/*"],
+			"js" : ["jquery-3.4.0.min.js", "mango.js"]
 		}
 	],
 	"permissions" : ["activeTab"]
