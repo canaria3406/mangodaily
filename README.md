@@ -2,11 +2,14 @@
 
 不知道該取什麼名子，就叫它 mango daily 好了。
 
+> [!IMPORTANT]  
+> 蘋果新聞網已不存在，本專案封存。
+
 ## 安裝方式
 
 Firefox版本已經上架，請到商店頁面下載。
 
-[https://addons.mozilla.org/zh-TW/firefox/addon/mango-daily/](https://addons.mozilla.org/zh-TW/firefox/addon/mango-daily/)
+~~addons.mozilla.org/zh-TW/firefox/addon/mango-daily/~~
 
 因為我沒有 Chrome 商店的開發者帳號，無法發布到 Chrome 商店，所以只能手動安裝。
 
